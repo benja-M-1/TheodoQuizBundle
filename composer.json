@@ -10,15 +10,15 @@
     ],
     "license": "MIT",
     "require": {
-        "symfony/form": ">=2.1,<2.3-dev",
-        "symfony/http-kernel": ">=2.1,<2.3-dev",
-        "symfony/dependency-injection": ">=2.1,<2.3-dev",
-        "symfony/validator": ">=2.1,<2.3-dev",
+        "symfony/form": ">=2.1,<3.0-dev",
+        "symfony/http-kernel": ">=2.1,<3.0-dev",
+        "symfony/dependency-injection": ">=2.1,<3.0-dev",
+        "symfony/validator": ">=2.1,<3.0-dev",
         "twitter/bootstrap": "v2.3.1"
     },
     "require-dev": {
         "phake/phake": "dev-master",
-        "symfony/yaml": ">=2.1,<2.3-dev"
+        "symfony/yaml": ">=2.1,<3.0-dev"
     },
     "suggest": {
         "symfony/yaml": "Allows using YamlQuestionManager."
